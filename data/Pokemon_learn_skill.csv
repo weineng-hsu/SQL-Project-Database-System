@@ -1,0 +1,467 @@
+id,Skill_name,Requirement_name
+1,Tackle,LV1
+1,Vine Whip,LV3
+1,Razor Leaf,LV12
+1,Seed Bomb,LV18
+1,Take Down,LV21
+1,Double-Edge,LV33
+1,Solar Beam,LV36
+2,Tackle,LV1
+2,Vine Whip,LV1
+2,Razor Leaf,LV12
+2,Seed Bomb,LV20
+2,Take Down,LV25
+2,Double-Edge,LV45
+2,Solar Beam,LV50
+3,Tackle,LV1
+3,Vine Whip,LV1
+3,Razor Leaf,LV12
+3,Seed Bomb,LV20
+3,Take Down,LV25
+3,Double-Edge,LV51
+3,Solar Beam,LV58
+4,Scratch,LV1
+4,Dragon Breath,LV12
+4,Flamethrower,LV24
+4,Fire Spin,LV32
+4,Flare Blitz,LV40
+5,Scratch,LV1
+5,Dragon Breath,LV12
+5,Flamethrower,LV30
+5,Fire Spin,LV42
+5,Flare Blitz,LV54
+6,Scratch,LV1
+6,Dragon Breath,LV12
+6,Flamethrower,LV30
+6,Fire Spin,LV46
+6,Flare Blitz,LV62
+7,Tackle,LV1
+7,Water Gun,LV3
+7,Bite,LV12
+7,Aqua Tail,LV24
+7,Hydro Pump,LV33
+8,Tackle,LV1
+8,Water Gun,LV1
+8,Bite,LV12
+8,Aqua Tail,LV30
+8,Hydro Pump,LV45
+9,Tackle,LV1
+9,Water Gun,LV1
+9,Bite,LV12
+9,Aqua Tail,LV30
+9,Hydro Pump,LV49
+10,Tackle,LV1
+10,Bug Bite,LV9
+11,Harden,LV1
+12,Bug Bite,LV1
+12,Harden,LV1
+12,Sleep Powder,LV12
+12,Poison Powder,LV12
+12,Bug Buzz,LV32
+13,Poison Sting,LV1
+13,Bug Bite,LV9
+14,Harden,LV1
+15,Bug Bite,LV1
+15,Harden,LV1
+15,Poison Sting,LV17
+15,Fell Stinger,LV44
+16,Tackle,LV1
+16,Twister,LV12
+16,Wing Attack,LV33
+16,Air Slash,LV49
+17,Tackle,LV1
+17,Twister,LV22
+17,Wing Attack,LV37
+17,Air Slash,LV57
+18,Tackle,LV1
+18,Twister,LV22
+18,Wing Attack,LV38
+18,Air Slash,LV62
+19,Tackle,LV1
+19,Quick Attack,LV4
+19,Bite,LV10
+19,Crunch,LV22
+19,Double-Edge,LV31
+20,Tackle,LV1
+20,Quick Attack,LV1
+20,Bite,LV10
+20,Crunch,LV24
+20,Double-Edge,LV39
+21,Peck,LV1
+21,Fury Attack,LV11
+21,Wing Attack,LV18
+21,Take Down,LV22
+21,Drill Peck,LV36
+22,Peck,LV1
+22,Fury Attack,LV11
+22,Wing Attack,LV18
+22,Take Down,LV23
+22,Drill Peck,LV41
+23,Wrap,LV1
+23,Poison Sting,LV4
+23,Bite,LV9
+23,Acid,LV20
+23,Gunk Shot,LV49
+24,Wrap,LV1
+24,Poison Sting,LV4
+24,Bite,LV9
+24,Acid,LV20
+24,Gunk Shot,LV63
+25,Nuzzle,LV1
+25,Quick Attack,LV1
+25,Thunder Shock,LV1
+25,Spark,LV20
+25,Thunderbolt,LV36
+25,Light Screen,LV40
+25,Thunder,LV44
+26,Nuzzle,LV1
+26,Quick Attack,LV1
+26,Thunder Shock,LV1
+26,Spark,LV1
+26,Thunderbolt,LV1
+26,Thunder,LV1
+26,Thunder Punch,LV1
+27,Scratch,LV1
+27,Sand Attack,LV6
+27,Rollout,LV9
+27,Fury Cutter,LV12
+27,Rapid Spin,LV15
+27,Dig,LV33
+27,Gyro Ball,LV36
+27,Earthquake,LV45
+28,Scratch,LV1
+28,Sand Attack,LV1
+28,Rollout,LV9
+28,Fury Cutter,LV12
+28,Rapid Spin,LV15
+28,Dig,LV41
+28,Gyro Ball,LV46
+28,Earthquake,LV61
+29,Poison Sting,LV1
+29,Scratch,LV5
+29,Double Kick,LV25
+29,Bite,LV30
+29,Crunch,LV50
+29,Earth Power,LV55
+30,Poison Sting,LV1
+30,Scratch,LV1
+30,Double Kick,LV29
+30,Bite,LV36
+30,Crunch,LV64
+30,Earth Power,LV71
+31,Scratch,LV1
+31,Double Kick,LV1
+31,Bite,LV1
+31,Crunch,LV1
+31,Earth Power,LV1
+32,Poison Sting,LV1
+32,Peck,LV5
+32,Fury Attack,LV15
+32,Double Kick,LV25
+32,Poison Jab,LV50
+32,Earth Power,LV55
+33,Poison Sting,LV1
+33,Peck,LV1
+33,Fury Attack,LV15
+33,Double Kick,LV29
+33,Poison Jab,LV64
+33,Earth Power,LV71
+34,Poison Sting,LV1
+34,Peck,LV1
+34,Fury Attack,LV1
+34,Double Kick,LV1
+34,Poison Jab,LV1
+34,Earth Power,LV1
+35,Charm,LV1
+35,Sing,LV1
+35,Stored Power,LV4
+35,Gravity,LV28
+35,Meteor Mash,LV32
+35,Moonblast,LV44
+36,Charm,LV1
+36,Sing,LV1
+36,Stored Power,LV1
+36,Gravity,LV1
+36,Meteor Mash,LV1
+36,Moonblast,LV1
+37,Ember,LV1
+37,Tail Whip,LV1
+37,Quick Attack,LV8
+37,Spite,LV12
+37,Incinerate,LV16
+37,Flamethrower,LV32
+37,Fire Spin,LV40
+37,Fire Blast,LV56
+38,Ember,LV1
+38,Quick Attack,LV1
+38,Incinerate,LV1
+38,Flamethrower,LV1
+38,Fire Spin,LV1
+38,Fire Blast,LV1
+39,Charm,LV1
+39,Sing,LV1
+39,Sweet Kiss,LV1
+39,Round,LV16
+39,Body Slam,LV24
+39,Gyro Ball,LV32
+39,Double-Edge,LV44
+40,Sing,LV1
+40,Sweet Kiss,LV1
+40,Round,LV1
+40,Body Slam,LV1
+40,Gyro Ball,LV1
+40,Double-Edge,LV1
+41,Absorb,LV1
+41,Astonish,LV5
+41,Air Cutter,LV25
+41,Bite,LV30
+41,Air Slash,LV50
+41,Leech Life,LV55
+42,Absorb,LV1
+42,Astonish,LV1
+42,Air Cutter,LV27
+42,Bite,LV37
+42,Air Slash,LV62
+42,Leech Life,LV69
+43,Absorb,LV1
+43,Acid,LV4
+43,Sleep Powder,LV8
+43,Poison Powder,LV14
+43,Moonblast,LV36
+43,Petal Dance,LV40
+44,Absorb,LV1
+44,Acid,LV1
+44,Sleep Powder,LV18
+44,Poison Powder,LV14
+44,Moonblast,LV32
+44,Petal Dance,LV50
+45,Absorb,LV1
+45,Acid,LV1
+45,Sleep Powder,LV1
+45,Poison Powder,LV1
+45,Moonblast,LV1
+45,Petal Dance,LV1
+46,Scratch,LV1
+46,Poison Powder,LV6
+46,Absorb,LV11
+46,Fury Cutter,LV17
+46,Giga Drain,LV38
+46,X-Scissor,LV54
+47,Scratch,LV1
+47,Poison Powder,LV6
+47,Absorb,LV11
+47,Fury Cutter,LV17
+47,Giga Drain,LV44
+47,X-Scissor,LV66
+48,Tackle,LV1
+48,Supersonic,LV5
+48,Poison Powder,LV13
+48,Psybeam,LV17
+48,Sleep Powder,LV29
+48,Leech Life,LV35
+48,Zen Headbutt,LV37
+48,Psychic,LV47
+49,Tackle,LV1
+49,Supersonic,LV5
+49,Poison Powder,LV13
+49,Psybeam,LV17
+49,Sleep Powder,LV29
+49,Leech Life,LV37
+49,Zen Headbutt,LV41
+49,Psychic,LV55
+50,Sand Attack,LV1
+50,Scratch,LV1
+50,Astonish,LV5
+50,Mud-Slap,LV12
+50,Sucker Punch,LV20
+50,Sandstorm,LV28
+50,Dig,LV32
+50,Earth Power,LV36
+50,Earthquake,LV40
+51,Sand Attack,LV1
+51,Scratch,LV1
+51,Astonish,LV1
+51,Mud-Slap,LV12
+51,Sucker Punch,LV20
+51,Sandstorm,LV30
+51,Dig,LV36
+51,Earth Power,LV42
+51,Earthquake,LV48
+52,Scratch,LV8
+52,Bite,LV16
+52,Slash,LV36
+52,Play Rough,LV44
+53,Scratch,LV1
+53,Bite,LV1
+53,Slash,LV42
+53,Play Rough,LV54
+54,Scratch,LV1
+54,Water Gun,LV3
+54,Water Pulse,LV12
+54,Zen Headbutt,LV18
+54,Aqua Tail,LV24
+54,Hydro Pump,LV36
+55,Scratch,LV1
+55,Water Gun,LV1
+55,Water Pulse,LV12
+55,Zen Headbutt,LV18
+55,Aqua Tail,LV24
+55,Hydro Pump,LV40
+56,Low Kick,LV1
+56,Scratch,LV1
+56,Mud-Slap,LV8
+56,Cross Chop,LV22
+56,Close Combat,LV36
+56,Stomping Tantrum,LV43
+56,Outrage,LV47
+57,Low Kick,LV1
+57,Scratch,LV1
+57,Mud-Slap,LV8
+57,Cross Chop,LV22
+57,Close Combat,LV39
+57,Stomping Tantrum,LV48
+57,Outrage,LV57
+58,Ember,LV1
+58,Bite,LV8
+58,Flame Wheel,LV12
+58,Fire Fang,LV24
+58,Crunch,LV26
+58,Take Down,LV32
+58,Flamethrower,LV40
+58,Play Rough,LV48
+58,Flare Blitz,LV56
+59,Ember,LV1
+59,Bite,LV1
+59,Flame Wheel,LV1
+59,Fire Fang,LV1
+59,Crunch,LV1
+59,Take Down,LV1
+59,Flamethrower,LV1
+59,Play Rough,LV1
+59,Flare Blitz,LV1
+60,Water Gun,LV1
+60,Mud Shot,LV12
+60,Body Slam,LV30
+60,Earth Power,LV36
+60,Hydro Pump,LV42
+60,Double-Edge,LV54
+61,Water Gun,LV1
+61,Mud Shot,LV1
+61,Body Slam,LV32
+61,Earth Power,LV40
+61,Hydro Pump,LV48
+61,Double-Edge,LV66
+62,Water Gun,LV1
+62,Mud Shot,LV1
+62,Body Slam,LV1
+62,Earth Power,LV1
+62,Hydro Pump,LV1
+62,Double-Edge,LV1
+63,Teleport,LV1
+64,Teleport,LV1
+64,Psybeam,LV5
+64,Psyshock,LV30
+64,Psychic,LV35
+64,Future Sight,LV45
+65,Psybeam,LV5
+65,Psyshock,LV30
+65,Psychic,LV35
+65,Future Sight,LV45
+66,Low Kick,LV1
+66,Low Sweep,LV12
+66,Dual Chop,LV32
+66,Dynamic Punch,LV44
+66,Cross Chop,LV48
+66,Double-Edge,LV52
+67,Low Kick,LV1
+67,Low Sweep,LV12
+67,Dual Chop,LV32
+67,Dynamic Punch,LV54
+67,Cross Chop,LV60
+67,Double-Edge,LV66
+68,Low Kick,LV1
+68,Low Sweep,LV12
+68,Dual Chop,LV32
+68,Dynamic Punch,LV54
+68,Cross Chop,LV60
+68,Double-Edge,LV66
+69,Vine Whip,LV1
+69,Wrap,LV1
+69,Sleep Powder,LV13
+69,Poison Powder,LV15
+69,Acid,LV23
+69,Razor Leaf,LV39
+69,Poison Jab,LV41
+69,Slam,LV47
+70,Vine Whip,LV1
+70,Wrap,LV1
+70,Sleep Powder,LV13
+70,Poison Powder,LV15
+70,Acid,LV24
+70,Razor Leaf,LV44
+70,Poison Jab,LV47
+70,Slam,LV54
+71,Vine Whip,LV1
+71,Wrap,LV1
+71,Sleep Powder,LV1
+71,Poison Powder,LV1
+71,Acid,LV1
+71,Razor Leaf,LV1
+71,Poison Jab,LV1
+71,Slam,LV1
+117,Hydro Pump,LV18
+117,Outrage,LV38
+142,Air Slash,LV25
+142,Rollout,LV48
+130,Outrage,LV25
+130,Air Cutter,LV18
+149,Outrage,LV28
+149,Thunderbolt,LV37
+95,Rock Throw,LV20
+95,Rollout,LV27
+106,Double Kick,LV18
+106,Cross Chop,LV32
+107,Close Combat,LV18
+107,Dynamic Punch,LV32
+94,Lick,LV8
+94,Astonish,LV22
+110,Poison Sting,LV9
+110,Gunk Shot,LV29
+98,Aqua Tail,LV13
+98,Water Gun,LV29
+134,Water Pulse,LV8
+134,Hydro Pump,LV17
+135,Thunder Shock,LV8
+135,Nuzzle,LV17
+136,Flare Blitz,LV9
+136,Incinerate,LV19
+196,Stored Power,LV21
+196,Zen Headbutt,LV27
+197,Sucker Punch,LV21
+197,Crunch,LV27
+131,Hydro Pump,LV19
+131,Ice Punch,LV48
+103,Razor Leaf,LV28
+103,Seed Bomb,LV38
+700,Draining Kiss,LV14
+700,Moonblast,LV35
+150,Psybeam,LV19
+150,Psychic,LV29
+124,Ice Punch,LV13
+124,Draining Kiss,LV33
+125,Thunder Punch,LV13
+125,Spark,LV33
+126,Flamethrower,LV13
+126,Fire Punch,LV33
+143,Body Slam,LV9
+143,Round,LV24
+144,Ice Punch,LV33
+144,Air Cutter,LV34
+145,Thunder Shock,LV35
+145,Drill Peck,LV36
+146,Wing Attack,LV37
+146,Fire Blast,LV38
+113,Fury Attack,LV5
+113,Wrap,LV18
+115,Rapid Spin,LV17
+115,Quick Attack,LV27

@@ -1,0 +1,107 @@
+Name,Chance,Damage,Type_name
+Crunch,100,80,Dark
+Pound,100,40,Normal
+Karate Chop,100,50,Fighting
+Fire Punch,100,75,Fire
+Ice Punch,100,75,Ice
+Thunder Punch,100,75,Electric
+Wing Attack,100,60,Flying
+Vine Whip,100,45,Grass
+Poison Sting,100,15,Poison
+Twineedle,100,25,Bug
+Water Gun,100,40,Water
+Psybeam,100,65,Psychic
+Outrage,100,120,Dragon
+Steel Wing,90,70,Steel
+Earthquake,100,100,Ground
+Rock Throw,90,50,Rock
+Lick,100,30,Ghost
+Draining Kiss,100,50,Fairy
+Tackle,100,40,Normal
+Razor Leaf,95,55,Grass
+Seed Bomb,100,80,Grass
+Take Down,85,90,Normal
+Double-Edge,100,120,Normal
+Solar Beam,100,120,Grass
+Scratch,100,40,Normal
+Dragon Breath,100,60,Dragon
+Flamethrower,100,90,Fire
+Fire Spin,85,35,Fire
+Flare Blitz,100,120,Fire
+Bite,100,60,Dark
+Aqua Tail,90,90,Water
+Hydro Pump,80,110,Water
+Bug Bite,100,60,Bug
+Harden,,,Normal
+Sleep Powder,75,,Grass
+Poison Powder,75,,Poison
+Bug Buzz,100,90,Bug
+Fell Stinger,100,50,Bug
+Twister,100,40,Dragon
+Air Slash,95,75,Flying
+Quick Attack,100,40,Normal
+Peck,100,35,Flying
+Fury Attack,85,15,Normal
+Drill Peck,100,80,Flying
+Wrap,90,15,Normal
+Acid,100,40,Poison
+Gunk Shot,80,120,Poison
+Nuzzle,100,20,Electric
+Thunder Shock,100,40,Electric
+Spark,100,65,Electric
+Thunderbolt,100,90,Electric
+Light Screen,,,Psychic
+Thunder,70,110,Electric
+Sand Attack,100,,Ground
+Rollout,90,30,Rock
+Fury Cutter,95,40,Bug
+Rapid Spin,100,50,Normal
+Dig,100,80,Ground
+Gyro Ball,100,,Steel
+Double Kick,100,30,Fighting
+Earth Power,100,90,Ground
+Poison Jab,100,80,Poison
+Charm,100,,Fairy
+Sing,55,,Normal
+Stored Power,100,20,Psychic
+Gravity,,,Psychic
+Meteor Mash,90,90,Steel
+Moonblast,100,85,Fairy
+Tail Whip,100,,Normal
+Spite,100,,Ghost
+Incinerate,100,60,Fire
+Fire Blast,85,110,Fire
+Sweet Kiss,75,,Fairy
+Round,100,60,Normal
+Body Slam,100,85,Normal
+Absorb,100,20,Grass
+Astonish,100,30,Ghost
+Air Cutter,95,60,Flying
+Leech Life,100,80,Bug
+Petal Dance,100,120,Grass
+Giga Drain,100,75,Grass
+X-Scissor,100,80,Bug
+Supersonic,55,,Normal
+Zen Headbutt,90,80,Psychic
+Psychic,100,90,Psychic
+Mud-Slap,100,20,Ground
+Sucker Punch,100,70,Dark
+Slash,100,70,Normal
+Play Rough,90,90,Fairy
+Water Pulse,100,60,Water
+Low Kick,100,,Fighting
+Cross Chop,100,80,Fighting
+Close Combat,100,120,Fighting
+Stomping Tantrum,100,75,Ground
+Ember,100,40,Fire
+Flame Wheel,100,60,Fire
+Fire Fang,95,65,Fire
+Teleport,,,Psychic
+Psyshock,100,80,Psychic
+Future Sight,100,120,Psychic
+Low Sweep,100,65,Fighting
+Dual Chop,90,40,Dragon
+Dynamic Punch,100,50,Fighting
+Slam,80,75,Normal
+Sandstorm,,,Rock
+Mud Shot,95,55,Ground
